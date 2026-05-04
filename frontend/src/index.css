@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-background text-textMain;
+  }
+}
+
+/* Aesthetic Sitetrip panel */
+.glass-panel {
+  @apply bg-surface text-textDark rounded-[2rem] p-8 shadow-sm transition-transform duration-300;
+}
+.dark-panel {
+  @apply bg-surfaceDark text-textMain rounded-[2rem] p-8;
+}
