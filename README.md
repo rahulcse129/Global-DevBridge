@@ -1,10 +1,10 @@
-# 🌍 Global DevBridge
+#  Global DevBridge
 
 An aesthetic, AI-powered asynchronous collaboration platform for distributed engineering teams. Built with a modern **React (Vite) + Tailwind** frontend and a robust **Node.js (Express) + PostgreSQL (Neon)** backend, featuring a **Google Gemini** RAG pipeline.
 
 ---
 
-## ✨ Visual Preview
+##  Visual Preview
 
 | Dashboard Overview | Secure Login |
 | :---: | :---: |
@@ -16,7 +16,7 @@ An aesthetic, AI-powered asynchronous collaboration platform for distributed eng
 
 ---
 
-## 🛠️ Detailed Technology Stack
+##  Detailed Technology Stack
 
 ### **Frontend (The UI Experience)**
 - **React 18 & Vite**: For lightning-fast development and optimized production builds.
@@ -38,19 +38,19 @@ An aesthetic, AI-powered asynchronous collaboration platform for distributed eng
 
 ---
 
-## 🔮 Future Scope: Empowering Developers
+##  Future Scope: Empowering Developers
 
 Global DevBridge is designed to solve the "Standup Fatigue" in distributed teams. Here is how we plan to expand the value for daily work:
 
-- **🤖 Automated Jira/GitHub Integration**: Automatically pull your "Did Today" status from your actual Git commits and Jira tickets.
-- **📊 Team Sentiment Analysis**: Use AI to detect if team morale is dropping or if a particular service is causing high developer frustration.
-- **💬 Real-time Collaborative Brainstorming**: A shared space for real-time decision-making with AI acting as a technical moderator.
-- **📱 Mobile Companion App**: Submit your standup on the go with voice-to-text integration.
-- **🧩 VS Code Extension**: Log your daily updates and architectural decisions without ever leaving your IDE.
+- ** Automated Jira/GitHub Integration**: Automatically pull your "Did Today" status from your actual Git commits and Jira tickets.
+- ** Team Sentiment Analysis**: Use AI to detect if team morale is dropping or if a particular service is causing high developer frustration.
+- ** Real-time Collaborative Brainstorming**: A shared space for real-time decision-making with AI acting as a technical moderator.
+- ** Mobile Companion App**: Submit your standup on the go with voice-to-text integration.
+- ** VS Code Extension**: Log your daily updates and architectural decisions without ever leaving your IDE.
 
 ---
 
-## 🚀 Setup & Installation
+##  Setup & Installation
 
 ### 1. Database Setup (Neon.tech)
 1. Create a free account at [Neon.tech](https://neon.tech/).
@@ -91,7 +91,7 @@ npm run dev
 
 ---
 
-## 🧠 Key Features
+## Key Features
 - **Modern Aesthetic**: Ultra-clean, brutalist UI inspired by high-end design agencies.
 - **AI Summaries**: Uses Gemini to analyze team progress and identify blockers automatically.
 - **Decision Tracking**: A dedicated log for tracking architectural and product decisions.
